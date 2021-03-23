@@ -1,1 +1,3 @@
+# Scheduling None Periodic Jobs
 
+In this assignment we are going to use our previously learned skills in FreeRTOS and SimSo to schedule non-periodic jobs. First we will start off by setting up a set of periodic tasks in SimSo and then extend the schedule with a non-periodic job. We will compare difference schedulers here and argue for which one is better for different types of tasks. Then we will use FreeRTOS to implement non-periodic jobs in practice. With the previously learned skills in measuring time, we will measure the response time of non-periodic jobs and argue for or against a given schedule.  
