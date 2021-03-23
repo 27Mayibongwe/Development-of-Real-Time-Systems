@@ -1,1 +1,1 @@
-
+In the last assignment you will implement your own scheduler in SimSo. This is done by adding a new multi-core scheduler plug-in as a python file and integrating this into SimSo. We will learn that it is possible to implement any kind of scheduler in this environment which can be useful for your future research! Then we will also implement inter-task communication in practice in FreeRTOS by using message queues.
